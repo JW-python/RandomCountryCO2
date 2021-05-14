@@ -2,11 +2,9 @@
 	<body>        		
 		
  <h1>Hi there, Lets generate a list of 30 random countries and their CO2 emissions for the year 2000!</h1>
-		<button onclick="myFunction()">Click me</button>
-		<p id="demo">Click me.</p> 
+		<p id="demo">Click me.</p>
     <script>
-function myFunction() {
-document.getElementById("demo").onclick = function()} {myFunction()};
+document.getElementById("demo").onclick = function() {myFunction()};
 function myFunction() {
   
 var words = [ "Albania:::3004480",
