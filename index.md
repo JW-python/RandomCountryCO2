@@ -1,8 +1,8 @@
 <html>
 	<body>        		
 		
- <h1>30 Random Countries and their CO2 emissions for the year 2000! (Country:::CO2 Emissions)</h1>
-		<p id="demo">Generate.</p>
+ <h1>30 Random Countries and their CO2 emissions for the year 2000</h1> <p><em>(Country:::CO2 Emissions)</em></p>
+		<p id="demo"><strong>Generate</strong></p>
     <script>
 document.getElementById("demo").onclick = function() {myFunction()};
 function myFunction() {
