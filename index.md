@@ -1,7 +1,7 @@
 <html>
 	<body>        		
 		
- <h1>Hi there, Lets generate a list of 30 random cities!</h1>
+ <h1>Hi there, Lets generate a list of 30 random countries and their CO2 emissions for the year 2000!</h1>
 		<p id="demo">Click me.</p>
     <script>
 document.getElementById("demo").onclick = function() {myFunction()};
